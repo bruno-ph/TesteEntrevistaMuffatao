@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(221, 208, 208);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #3f3434;
+}
+
+table {
+    border-radius: 3%;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #ffffff;
+}
+
+td {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 5%;
+
+}
+
+button{
+    background-color: red;
+    width: 100%;
+}
+
+label{
+    margin: 0 5px;
+}
+
+.add_user_form{
+    padding: 5px;
+    border-radius:5% ;
+}
+
+.add_user_submit_button{
+    background-color: green;
+    width: 50%;
+}
